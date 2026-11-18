@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="loading_books">Cargando libros…</string>
+    <string name="books_error">No se pudieron cargar los libros.</string>
+    <string name="books_empty">No se encontraron libros.</string>
+    <string name="retry">Reintentar</string>
+    <string name="cover_unavailable">Portada no disponible</string>
+</resources>
